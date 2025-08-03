@@ -34,6 +34,8 @@ We were given a tutorial about the github (signing up )and how to create a repos
 
 ### Then mam Harpreet kaur grewal (HOD - Applied sciences) did some announcements about regularly attending classes , changing sections and downloading bonafide and fee structure from the college website .
 
+## Reflection
+Overall , in a nutshell , the starting of the day was a bit thinking based with the tests but they are also equally important to know that where we stand . The lecture on satya scholarship made me realise the financial need and its importance in the field of education.Same goes with the lecture on the importance of food which made me learn a lot about the vitality of food towards the mental health speacially .After learning the new platform github and the repositories , I really felt that I am learning something new and more towards our subject (coding) .The day was a rich blend of practical learning, future planning, and skill-building. It left me feeling more prepared — not just academically, but also for the broader challenges and opportunities ahead.
 
 
 
