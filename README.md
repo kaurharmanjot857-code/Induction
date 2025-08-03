@@ -17,12 +17,22 @@ In the Satya Scholarship Program lecture, we learned about a scholarship initiat
 ## Food - a pivotal role in student's overall wellness
 This lecture was given by Dr Arshdeep singh who is currently working in Punjab agricultural university as a food specialist.
 
-In the lecture , the speakers introduced to us that the food we eat everyday has a very deep effect on our overall body working and mental health. Food is really important which should include a balanced diet containing good carbs ,proteins and fats. Also he told us that we should on rely on the fast food and the processed food to fill our appetite instead it should be the minor part of out diet and the major part of our diet should include healthy homemade food. He further told us that we can take jaggery , lassi , curd and yogurt in our diet which will be really helpful. Several common myths were addressed, such as the belief that milk should not be consumed with meals as it leads to a skin disease which is totally wrong and illogical to say or that drinking tea with cold foods is harmful .We were also advised against consuming cold drinks due to their high sugar content , we were told thag the soft drinks contain upto 70 percent of just sugar . As a healthier alternative, it was suggested to drink Maaza mixed with soda water to reduce sugar intake while still enjoying a refreshing and fizzy beverage as soda only contains carbon dioxide . Moreover , he cleared our minds that the fruit drinks that we consume don't contain the real pure fruit juice but an alternative derived chemical that is the food concentrate etc .Further we are awared about the white sugar and the brown sugar ,the difference is just that white sugar is processed . Furthermore we were told about the white bread , brown bread and whole wheat grain bread , their differences also. It ended up by the fact that we should really note that what we eat and is it good for our health (mental + physical) .
+In the lecture , the speakers introduced to us that the food we eat everyday has a very deep effect on our overall body working and mental health. Food is really important which should include a balanced diet containing good carbs ,proteins and fats.
+
+Also he told us that we should on rely on the fast food and the processed food to fill our appetite instead it should be the minor part of out diet and the major part of our diet should include healthy homemade food. He further told us that we can take `jaggery`, `lassi`, `curd`and `yogurt` in our diet which will be really helpful. Several common myths were addressed, such as the belief that milk should not be consumed with meals as it leads to a skin disease which is totally wrong and illogical to say or that drinking tea with cold foods is harmful .
+
+We were also advised against consuming cold drinks due to their high sugar content , we were told thag the soft drinks contain upto 70 percent of just sugar . As a healthier alternative, it was suggested to drink Maaza mixed with soda water to reduce sugar intake while still enjoying a refreshing and fizzy beverage as soda only contains carbon dioxide . 
+
+Moreover , he cleared our minds that the fruit drinks that we consume don't contain the real pure fruit juice but an alternative derived chemical that is the food concentrate etc .Further we are awared about the white sugar and the brown sugar ,the difference is just that white sugar is processed . Furthermore we were told about the white bread , brown bread and whole wheat grain bread , their differences also. 
+
+It ended up by the fact that we should really note that what we eat and is it good for our health (mental + physical) .
+
 
 ## Github repo creation and markdown syntax
 
-We were told about the
+We were given a tutorial about the github (signing up )and how to create a repository specifically a readme file and told about the markdown language and its basic syntax . It was really interesting to know such a new place to write the data and whole day experiences. The whole lecture was given by senior Harsimran singh in the college auditorium .
 
+### Then mam Harpreet kaur grewal (HOD - Applied sciences) did some announcements about regularly attending classes , changing sections and downloading bonafide and fee structure from the college website .
 
 
 
