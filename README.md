@@ -37,7 +37,7 @@ We were given a tutorial about the github (signing up )and how to create a repos
 ## Reflection
 Overall , in a nutshell , the starting of the day was a bit thinking based with the tests but they are also equally important to know that where we stand . The lecture on satya scholarship made me realise the financial need and its importance in the field of education.Same goes with the lecture on the importance of food which made me learn a lot about the vitality of food towards the mental health speacially .After learning the new platform github and the repositories , I really felt that I am learning something new and more towards our subject (coding) .The day was a rich blend of practical learning, future planning, and skill-building. It left me feeling more prepared — not just academically, but also for the broader challenges and opportunities ahead.
 
-# 📘 Day 4 – Induction Program Report
+# 📘 Day - 4
 
 **📅 Date:** [4th August 2025] 
 
@@ -68,11 +68,6 @@ Key highlights:
 It was a great way to interact and become familiar with peers and faculty.
 
 ---
-
-## 🍱 11:30 AM – 12:30 PM: Lunch Break
-
-Time to recharge and socialize with fellow students.
-
 
 ## 🍱 11:30 AM – 12:30 PM: Lunch Break
 
@@ -128,7 +123,7 @@ The session was motivating and highlighted opportunities to get involved in tech
 
 ---
 
-## ✅ Conclusion
+## Reflection 
 
 Day 4 of the induction program was a well-rounded experience that blended:
 
