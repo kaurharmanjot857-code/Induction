@@ -1,4 +1,132 @@
 # Induction
+# 📘 Day 1 – Induction Program Report
+
+**📅 Date:** 31st July, 2025  
+
+---
+
+## 🎤 Program Commencement & Introduction
+
+The induction program began with a warm welcome by **Taranpreet Kaur**, the host for the day.  
+She gave an overview of the week-long induction program and introduced the speakers and agenda for the day.
+
+---
+
+## 🧠 Insightful Session by Harsimran Singh
+
+The first speaker, **Harsimran Singh**, shared valuable insights about:
+
+- The college and its culture  
+- Hackathons, activities, and campus programs  
+- The institution’s origin and foundation  
+
+This session helped students understand the legacy and opportunities the college provides.
+
+---
+
+## 🎓 Talk by Sangam Arora – CSE Topper (Batch 2021–2025)
+
+**Sangam Arora**, topper of the **CSE batch (2021–2025)**, encouraged students to:
+
+- Maintain a balance between academics and personal growth  
+- Focus on **DSA (Data Structures & Algorithms)** early  
+- Apply theoretical knowledge in practical ways  
+
+His motivational words left a strong impression on all attendees.
+
+---
+
+##  Arshpreet Singh – IT Topper's Motivational Message
+
+Next, **Arshpreet Singh**, topper of the **IT department**, spoke about:
+
+- The power of **manifestation**  
+- How he once sat among freshers and now works in his dream job  
+- The importance of joining **clubs and societies** for holistic growth  
+
+---
+
+##  Harpreet Kaur Grewal – HOD of Applied Sciences
+
+**Harpreet Kaur Grewal** emphasized the importance of:
+
+- **Prayer, patience, and perseverance**  
+- Making a smooth transition from **school to college**, using an airport metaphor  
+- The role of the **Applied Sciences department** in the foundational years
+
+---
+
+##  Dr. Akshay Giddar – Dean of Academics
+
+**Akshay Giddar** boosted morale by encouraging students to:
+
+- Explore interests beyond academics  
+- Keep learning and experimenting to grow in every direction
+
+---
+
+## 💬 Harleen Kaur’s Inspirational Talk
+
+**Harleen Kaur** delivered a highly emotional and motivational speech filled with:
+
+- Quotes and sayings  
+- Messages about **confidence**, **hard work**, and **dedication**
+
+---
+
+## 🎯 Parminder Singh – Dean of Student Welfare
+
+**Parminder Singh** talked about:
+
+- The power of **focused study habits**  
+- Pursuing dreams with discipline and vision
+
+---
+
+## 🧭 Principal Sehijpal Singh’s Address
+
+The principal, **Sehijpal Singh**, shared wisdom and motivation for:
+
+- Navigating the **4-year engineering journey**  
+- Making the most out of every opportunity in college
+
+---
+
+##  Ravinder Singh Garg’s Life Advice
+
+**Ravinder Singh Garg** gave heartfelt advice on:
+
+- Always respecting **parents and teachers**  
+- Never choosing shortcuts over **hard work**
+
+---
+
+##  Kulwinder Singh Maan – HOD, IT
+
+**Kulwinder Singh Maan** spoke briefly about:
+
+- What to expect from **college life**  
+- How to embrace the **new experiences** coming our way
+
+---
+
+## 💸 Financial Advice by Rakesh Kumar
+
+The day concluded with **Rakesh Kumar**, **Finance Adviser**, who explained:
+
+- Education loan facilities provided by the **Government of India**  
+- Tips on how to **waive off extra charges** and manage finances wisely
+
+---
+
+##  Conclusion
+
+Day 1 of the induction program offered a powerful start to our college journey.  
+It was filled with motivational talks, practical guidance, and heartfelt advice from our faculty, alumni, and college leaders.  
+This day set the tone for a successful and enriching college experience.
+
+---
+
 # Day 2
 ## 9:30 am - 10:30 am
 At starting , we had an english proficiency test which was quite interesting and brain triggering .It included grammar ,reading and writing based questions . 
