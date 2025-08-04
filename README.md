@@ -1,5 +1,5 @@
 # Induction
-# Day 1 
+# Day 2
 ## 9:30 am - 10:30 am
 At starting , we had an english proficiency test which was quite interesting and brain triggering .It included grammar ,reading and writing based questions . 
 
@@ -36,6 +36,112 @@ We were given a tutorial about the github (signing up )and how to create a repos
 
 ## Reflection
 Overall , in a nutshell , the starting of the day was a bit thinking based with the tests but they are also equally important to know that where we stand . The lecture on satya scholarship made me realise the financial need and its importance in the field of education.Same goes with the lecture on the importance of food which made me learn a lot about the vitality of food towards the mental health speacially .After learning the new platform github and the repositories , I really felt that I am learning something new and more towards our subject (coding) .The day was a rich blend of practical learning, future planning, and skill-building. It left me feeling more prepared — not just academically, but also for the broader challenges and opportunities ahead.
+
+# 📘 Day 4 – Induction Program Report
+
+**📅 Date:** [4th August 2025] 
+
+
+## ⏰ 9:30 AM – 10:30 AM: C++ Programming Basics
+
+The day began with a session on **C++ programming**, conducted by our seniors **Jagdeep Kaur** and **Gurleen Kaur**.  
+We were introduced to the fundamentals of C++, including:
+
+- Variable declaration  
+- Input/output stream (`iostream`) basics  
+
+The session was beginner-friendly and provided a strong foundation to build upon in the coming days.
+
+---
+
+## ⚡ 10:30 AM – 11:30 AM: Basics of Electrical and Electronics Engineering
+
+Next, we had a class on **Basics of Electrical and Electronics Engineering** by **Balwinder Singh Sir**.  
+Key highlights:
+
+- Recommended reference books (e.g., **S.K. Mehta**)  
+- Personal introductions of each student, including:
+  - Name  
+  - Village  
+  - Father's occupation  
+
+It was a great way to interact and become familiar with peers and faculty.
+
+---
+
+## 🍱 11:30 AM – 12:30 PM: Lunch Break
+
+Time to recharge and socialize with fellow students.
+
+
+## 🍱 11:30 AM – 12:30 PM: Lunch Break
+
+Time to recharge and socialize with fellow students.
+
+---
+
+## 🎤 12:45 PM Onwards: Seminar Sessions & Events
+
+### 🌱 Universal Human Values
+
+A thoughtful session on **Universal Human Values** by **Priya Darshini Ma’am** (Ph.D. in Electronics & Communication Engineering), covering:
+
+- Core human values  
+- Ethics and empathy in professional and personal life  
+
+This lecture encouraged deep thinking and self-awareness.
+
+---
+
+### 🎶 Fun & Talent Showcase
+
+Our seniors organized an engaging **fun session** that included:
+
+- Singing performances  
+- Shayari (poetry recitations)  
+
+This created a lively and welcoming atmosphere.
+
+---
+
+### 💻 Laptop Buying Guidance for CSE Students
+
+Senior CSE students shared valuable tips on:
+
+- Choosing the right laptop for programming and coursework  
+- Recommended specs, brands, and budget-friendly options  
+
+Very helpful for first-year students making their first tech purchase.
+
+---
+
+### 🚀 Causmic Club Introduction
+
+The **Causmic Club** gave a presentation on:
+
+- Club achievements and past events like **ACMI** and **APEX**  
+- Collaborations and sponsorships from brands such as:
+  - Coca-Cola  
+  - ICICI Bank  
+
+The session was motivating and highlighted opportunities to get involved in technical and cultural activities.
+
+---
+
+## ✅ Conclusion
+
+Day 4 of the induction program was a well-rounded experience that blended:
+
+- **Technical learning**
+- **Value-based education**
+- **Cultural engagement**
+- **Peer interaction**
+
+It helped us feel more confident and excited about our journey ahead in college.
+
+---
+
+
 
 
 
