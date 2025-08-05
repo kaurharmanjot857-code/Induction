@@ -46,7 +46,10 @@ Next, **Arshpreet Singh**, topper of the **IT department**, spoke about:
 
 ---
 
-##  Harpreet Kaur Grewal – HOD of Applied Sciences
+##  Harpreet Kaur 
+Grewal – HOD of Applied Sciences
+
+She also told us about the applied science department with the metaphor of airport where we have to shift from the plane of school to the plane of college
 
 **Harpreet Kaur Grewal** emphasized the importance of:
 
@@ -69,6 +72,7 @@ Next, **Arshpreet Singh**, topper of the **IT department**, spoke about:
 
 **Harleen Kaur** delivered a highly emotional and motivational speech filled with:
 
+She gave an enthusiastic speech which was filled with plethora of emotions like confidence, hardwork etc ,it included :
 - Quotes and sayings  
 - Messages about **confidence**, **hard work**, and **dedication**
 
