@@ -169,13 +169,15 @@ We were given a tutorial about the github (signing up )and how to create a repos
 ## Reflection
 Overall , in a nutshell , the starting of the day was a bit thinking based with the tests but they are also equally important to know that where we stand . The lecture on satya scholarship made me realise the financial need and its importance in the field of education.Same goes with the lecture on the importance of food which made me learn a lot about the vitality of food towards the mental health speacially .After learning the new platform github and the repositories , I really felt that I am learning something new and more towards our subject (coding) .The day was a rich blend of practical learning, future planning, and skill-building. It left me feeling more prepared — not just academically, but also for the broader challenges and opportunities ahead.
 
-# 🎓 Day 3 – College Induction Program (2nd August 2025)
+# 🎓 Day 3 – 
+
+(2nd August 2025)
 
 ## A Morning of Inspiration and Wisdom
 
 The third day of the induction program at **Guru Nanak Dev Engineering College (GNDEC), Ludhiana**, unfolded with a blend of intellectual stimulation and emotional insight — providing both academic inspiration and personal growth opportunities for the budding engineers.
 
-### 🧠 Session 1: Igniting Scientific Curiosity  
+### Session 1: Igniting Scientific Curiosity  
 **🕥 Time:** 9:00 AM – 11:30 AM  
 ** Speaker:** Dr. Jaswinder Singh (Incharge, Indian Association of Physics Teachers - IAPT)
 
@@ -188,7 +190,7 @@ It was a perfect kickstart to the day, laying a strong foundation for scientific
 ###  Session 2: Nurturing the Inner Self  
 **🕧 Time:** 11:30 AM – 1:30 PM  
 ** Speaker:** Dr. Priya Darshni  
-**📘 Topic:** *Universal Human Values*
+** Topic:** *Universal Human Values*
 
 The second half of the day transitioned into an emotionally enriching session conducted by **Dr. Priya Darshni**, who passionately spoke about *Universal Human Values*. Her talk emphasized the importance of incorporating values like **kindness, empathy, integrity, and respect** into daily life, especially in a professional and academic setting.
 
@@ -197,14 +199,14 @@ Her message resonated deeply with everyone, serving as a reminder that **true su
 
 ---
 
-### 🌟 Key Takeaways:
+### Key Takeaways:
 - Scientific thinking empowers innovation and problem-solving.
 - Human values form the backbone of a strong professional and personal life.
 - Engineering is not only about machines and codes — it’s also about **people, purpose, and values**.
 
 ---
 
-### 🪞 Reflection
+### Reflection
 
 Day 3 of the induction program was a powerful reminder that education goes beyond textbooks and labs. Dr. Jaswinder Singh’s session reignited our curiosity about how the world works, while Dr. Priya Darshni’s message reminded us of *who we are* and *who we want to become*.  
 As we continue our journey at GNDEC, we are inspired to not only chase knowledge but also carry empathy, compassion, and integrity in everything we do. This day planted seeds for both professional excellence and personal growth — a balance that lies at the heart of a meaningful engineering career.
@@ -213,7 +215,7 @@ As we continue our journey at GNDEC, we are inspired to not only chase knowledge
 
 > “Education is not just the learning of facts, but the training of the mind to think and the heart to feel.” – Inspired by Albert Einstein
 
-# 📘 Day - 4
+# Day - 4
 
 ** Date:** [4th August 2025] 
 
