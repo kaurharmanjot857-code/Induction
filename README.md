@@ -1,5 +1,5 @@
 # Induction
-# 📘 Day 1 – Induction Program Report
+#  Day 1 – Induction Program Report
 
 ** Date:** 31st July, 2025  
 
@@ -68,7 +68,7 @@ She also told us about the applied science department with the metaphor of airpo
 
 ---
 
-## 💬 Harleen Kaur’s Inspirational Talk
+##  Harleen Kaur’s Inspirational Talk
 
 **Harleen Kaur** delivered a highly emotional and motivational speech filled with:
 
@@ -78,7 +78,7 @@ She gave an enthusiastic speech which was filled with plethora of emotions like 
 
 ---
 
-## 🎯 Parminder Singh – Dean of Student Welfare
+## Parminder Singh – Dean of Student Welfare
 
 **Parminder Singh** talked about:
 
@@ -87,7 +87,7 @@ She gave an enthusiastic speech which was filled with plethora of emotions like 
 
 ---
 
-## 🧭 Principal Sehijpal Singh’s Address
+## Principal Sehijpal Singh’s Address
 
 The principal, **Sehijpal Singh**, shared wisdom and motivation for:
 
