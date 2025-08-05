@@ -1,11 +1,11 @@
 # Induction
 # 📘 Day 1 – Induction Program Report
 
-**📅 Date:** 31st July, 2025  
+** Date:** 31st July, 2025  
 
 ---
 
-## 🎤 Program Commencement & Introduction
+## Program Commencement & Introduction
 
 The induction program began with a warm welcome by **Taranpreet Kaur**, the host for the day.  
 She gave an overview of the week-long induction program and introduced the speakers and agenda for the day.
@@ -177,7 +177,7 @@ The third day of the induction program at **Guru Nanak Dev Engineering College (
 
 ### 🧠 Session 1: Igniting Scientific Curiosity  
 **🕥 Time:** 9:00 AM – 11:30 AM  
-**🎤 Speaker:** Dr. Jaswinder Singh (Incharge, Indian Association of Physics Teachers - IAPT)
+** Speaker:** Dr. Jaswinder Singh (Incharge, Indian Association of Physics Teachers - IAPT)
 
 The morning commenced with an enlightening lecture by **Dr. Jaswinder Singh**, a respected voice in the field of physics and the current incharge of the **Indian Association of Physics Teachers (IAPT)**. His dynamic session captivated the audience, offering a fresh perspective on the role of physics in everyday life.  
 With enthusiasm and clarity, he delved into the *beauty and relevance of scientific thinking*, showing how physics can fuel innovation in the engineering world. His thought-provoking examples and interactive style not only sparked curiosity but also instilled a genuine appreciation for the subject among the students.  
@@ -187,7 +187,7 @@ It was a perfect kickstart to the day, laying a strong foundation for scientific
 
 ###  Session 2: Nurturing the Inner Self  
 **🕧 Time:** 11:30 AM – 1:30 PM  
-**🎤 Speaker:** Dr. Priya Darshni  
+** Speaker:** Dr. Priya Darshni  
 **📘 Topic:** *Universal Human Values*
 
 The second half of the day transitioned into an emotionally enriching session conducted by **Dr. Priya Darshni**, who passionately spoke about *Universal Human Values*. Her talk emphasized the importance of incorporating values like **kindness, empathy, integrity, and respect** into daily life, especially in a professional and academic setting.
@@ -215,10 +215,10 @@ As we continue our journey at GNDEC, we are inspired to not only chase knowledge
 
 # 📘 Day - 4
 
-**📅 Date:** [4th August 2025] 
+** Date:** [4th August 2025] 
 
 
-## ⏰ 9:30 AM – 10:30 AM: C++ Programming Basics
+##  9:30 AM – 10:30 AM: C++ Programming Basics
 
 The day began with a session on **C++ programming**, conducted by our seniors **Jagdeep Kaur** and **Gurleen Kaur**.  
 We were introduced to the fundamentals of C++, including:
@@ -230,7 +230,7 @@ The session was beginner-friendly and provided a strong foundation to build upon
 
 ---
 
-## ⚡ 10:30 AM – 11:30 AM: Basics of Electrical and Electronics Engineering
+##  10:30 AM – 11:30 AM: Basics of Electrical and Electronics Engineering
 
 Next, we had a class on **Basics of Electrical and Electronics Engineering** by **Balwinder Singh Sir**.  
 Key highlights:
@@ -245,7 +245,7 @@ It was a great way to interact and become familiar with peers and faculty.
 
 ---
 
-## 🍱 11:30 AM – 12:30 PM: Lunch Break
+##  11:30 AM – 12:30 PM: Lunch Break
 
 Time to recharge and socialize with fellow students.
 
