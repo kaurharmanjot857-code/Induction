@@ -311,6 +311,70 @@ Day 4 of the induction program was a well-rounded experience that blended:
 It helped us feel more confident and excited about our journey ahead in college.
 
 ---
+# Day 5
+
+Date - 5th August 2025
+##  Introduction
+
+Day 5 of the induction program marked the beginning of our academic journey, as we attended our first subject-wise lectures in Chemistry, English, and Mathematics. These sessions not only introduced us to the syllabus but also offered valuable insights into expectations, skills, and mindset required for college life.
+
+---
+
+### 🧪 Chemistry Lecture (9:30 AM – 10:30 AM)  
+**Instructor:** Prof. Mandeep Kaur
+
+- Introduction to Chemistry: atomic number, basic concepts.
+- Differences between:
+  - Physical Chemistry
+  - Organic Chemistry
+  - Inorganic Chemistry
+- Quick revision of key Class 12 topics.
+- Overview of academic structure:
+  - **Internal Assessments**
+  - **External Exams**
+  - **MSTs (Mid-Semester Tests)**
+
+---
+
+### 📖 English Lecture (10:30 AM – 11:30 AM)  
+**Instructor:** Prof. Nisha
+
+- Focus on:
+  - **Personality development**
+  - **Body language**
+  - **Facial expressions**
+- Student introduction activity:
+  - Shared names, school backgrounds, achievements, strengths, and weaknesses.
+- Encouraged confidence in public speaking and self-awareness.
+
+---
+
+###  Mathematics Lecture (11:30 AM – 12:30 PM)  
+** Instructor:** Prof. Gagandeep Kaur
+
+- Emphasis on traditional teaching:
+  - Mathematics is best taught using the board.
+  - Presentations limit understanding of foundational steps and handwriting.
+- Key messages:
+  - Be **job creators**, not just job seekers.
+  - Learn **practical skills** to stay relevant in the real world.
+  - Concerns over **excess screen time** for children and students.
+- Academic advice:
+  - Focus entirely on **studies and note-making** in the first semester.
+  - Explore the **Mathemagic Club** for extracurricular growth.
+- Inspirational takeaway:
+  > “It's not about marks, it's about skills – keep learning.”  
+  > “When feeling off track, redirect your mind to something productive.”
+
+---
+
+##  Reflection
+
+Day 5 provided us with a meaningful start to our academic life in college. The sessions were not only educational but also deeply motivational. We left the classrooms with a sense of purpose, understanding that college is not just about passing exams—it's about building a skillset and mindset for life.
+
+---
+
+
 
 
 
