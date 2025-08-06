@@ -151,23 +151,23 @@ This lecture was given by Dr Arshdeep singh who is currently working in Punjab a
 
 In the lecture , the speakers introduced to us that the food we eat everyday has a very deep effect on our overall body working and mental health. Food is really important which should include a balanced diet containing good carbs ,proteins and fats.
 
-Also he told us that we should on rely on the fast food and the processed food to fill our appetite instead it should be the minor part of out diet and the major part of our diet should include healthy homemade food. He further told us that we can take `jaggery`, `lassi`, `curd`and `yogurt` in our diet which will be really helpful. Several common myths were addressed, such as the belief that milk should not be consumed with meals as it leads to a skin disease which is totally wrong and illogical to say or that drinking tea with cold foods is harmful .
+Also he told us that we should not rely on the fast food and the processed food to fill our appetite instead it should be the minor part of out diet and the major part of our diet should include healthy homemade food. He further told us that we can take `jaggery`, `lassi`, `curd`and `yogurt` in our diet which will be really helpful. Several common myths were addressed, such as the belief that milk should not be consumed with meals as it leads to a skin disease which is totally wrong and illogical to say or that drinking tea with cold foods is harmful .
 
-We were also advised against consuming cold drinks due to their high sugar content , we were told thag the soft drinks contain upto 70 percent of just sugar . As a healthier alternative, it was suggested to drink Maaza mixed with soda water to reduce sugar intake while still enjoying a refreshing and fizzy beverage as soda only contains carbon dioxide . 
+We were also advised against consuming cold drinks due to their high sugar content , we were told that the soft drinks contain upto 70 percent of just sugar . As a healthier alternative, it was suggested to drink Maaza mixed with soda water to reduce sugar intake while still enjoying a refreshing and fizzy beverage as soda only contains carbon dioxide . 
 
-Moreover , he cleared our minds that the fruit drinks that we consume don't contain the real pure fruit juice but an alternative derived chemical that is the food concentrate etc .Further we are awared about the white sugar and the brown sugar ,the difference is just that white sugar is processed . Furthermore we were told about the white bread , brown bread and whole wheat grain bread , their differences also. 
+Moreover , he cleared our minds that the fruit drinks that we consume don't contain the real pure fruit juice but an alternative derived chemical that is the food concentrate etc .Further we were awared about the white sugar and the brown sugar ,the difference is just that white sugar is processed . Furthermore we were told about the white bread , brown bread and whole wheat grain bread , their differences also. 
 
-It ended up by the fact that we should really note that what we eat and is it good for our health (mental + physical) .
+It ended up by the fact that we should really note that what we eat and investigate that is it good for our health ? (mental + physical) .
 
 
 ## Github repo creation and markdown syntax
 
-We were given a tutorial about the github (signing up )and how to create a repository specifically a readme file and told about the markdown language and its basic syntax . It was really interesting to know such a new place to write the data and whole day experiences. The whole lecture was given by senior Harsimran singh in the college auditorium .
+We were given a tutorial about the github (signing up )and how to create a repository specifically a readme file . Further we were told about the markdown language and its basic syntax . It was really interesting to know such a new place to write the data and whole day experiences. The whole lecture was given by senior Harsimran singh in the college auditorium .
 
 ### Then mam Harpreet kaur grewal (HOD - Applied sciences) did some announcements about regularly attending classes , changing sections and downloading bonafide and fee structure from the college website .
 
 ## Reflection
-Overall , in a nutshell , the starting of the day was a bit thinking based with the tests but they are also equally important to know that where we stand . The lecture on satya scholarship made me realise the financial need and its importance in the field of education.Same goes with the lecture on the importance of food which made me learn a lot about the vitality of food towards the mental health speacially .After learning the new platform github and the repositories , I really felt that I am learning something new and more towards our subject (coding) .The day was a rich blend of practical learning, future planning, and skill-building. It left me feeling more prepared — not just academically, but also for the broader challenges and opportunities ahead.
+Overall , in a nutshell , the starting of the day was a bit thinking based with the tests but they are also equally important to know that where we actually stand . The lecture on satya scholarship made me realise the financial need and its importance in the field of education.Same goes with the lecture on the importance of food which made me learn a lot about the vitality of food towards the mental health especially .After learning the new platform github and the repositories , I really felt that I am learning something new and more towards our subject (coding) .The day was a rich blend of practical learning, future planning, and skill-building. It left me feeling more prepared — not just academically, but also for the broader challenges and opportunities ahead.
 
 # 🎓 Day 3 – 
 
@@ -275,18 +275,6 @@ Our seniors organized an engaging **fun session** that included:
 
 This created a lively and welcoming atmosphere.
 
----
-
-### 💻 Laptop Buying Guidance for CSE Students
-
-Senior CSE students shared valuable tips on:
-
-- Choosing the right laptop for programming and coursework  
-- Recommended specs, brands, and budget-friendly options  
-
-Very helpful for first-year students making their first tech purchase.
-
----
 
 ### 🚀 Causmic Club Introduction
 
@@ -298,6 +286,16 @@ The **Causmic Club** gave a presentation on:
   - ICICI Bank  
 
 The session was motivating and highlighted opportunities to get involved in technical and cultural activities.
+---
+
+### 💻 Laptop Buying Guidance for CSE Students
+
+Senior CSE students shared valuable tips on:
+
+- Choosing the right laptop for programming and coursework  
+- Recommended specs, brands, and budget-friendly options  
+
+Very helpful for first-year students making their first tech purchase.
 
 ---
 
