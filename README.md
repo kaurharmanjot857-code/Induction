@@ -372,7 +372,86 @@ Day 5 of the induction program marked the beginning of our academic journey, as 
 
 Day 5 provided us with a meaningful start to our academic life in college. The sessions were not only educational but also deeply motivational. We left the classrooms with a sense of purpose, understanding that college is not just about passing exams—it's about building a skillset and mindset for life.
 
+# College Induction Program – Day 6 Report
+
+**Date:** 6th August 2025  
+**Venue:** TCC Seminar Hall, Campus Grounds, College Auditorium  
+**Time:** 9:30 AM – 4:00 PM
+
 ---
+
+## Student ID Card Making 
+** Time:** 9:30 AM – 11:30 AM  
+** Venue:** TCC Seminar Hall
+
+The day commenced with the process of Student ID card making. All newly admitted students gathered in the TCC Seminar Hall where the administrative team guided them through the ID generation and verification process. This was a crucial step to formally initiate students into the academic environment.
+
+---
+
+##  Break  
+** Time:** 11:30 AM – 12:30 PM
+
+A short break allowed students to relax and prepare for the next part of the program.
+
+---
+
+##  Campus Exploration  
+** Time:** 12:30 PM – 1:25 PM (approx.)
+
+Students explored various parts of the GNDEC campus to familiarize themselves with key locations such as departments, labs, canteens, and libraries. This exploration provided a helpful orientation for their upcoming college life.
+
+---
+
+##  Guest Lecture 1 – Gurcharan Singh Grewal  
+** Time:** 1:25 PM – 2:15 PM  
+** Venue:** College Auditorium
+
+The first session in the auditorium began with a motivating talk by **Gurcharan Singh Grewal** from **SGPC**, who is also an alumnus of GNDEC (Batch of 1983). Key highlights of his talk include:
+
+- History of GNDEC: Founded under the blessings of Guru Nanak Dev Ji and rooted in Nankana Sahib, Pakistan.
+- Personal Journey: From being a student, to witnessing Operation Blue Star, imprisonment, and ultimately becoming a trustee of the college.
+- Motivation: He encouraged students to focus on their academics and use this opportunity to build a better future.
+
+---
+
+## 🎓 Guest Lecture 2 – Lakhvir Singh (CML)  
+** Time:** 2:15 PM – 3:50 PM  
+** Venue:** College Auditorium
+
+**Lakhvir Singh** from the **Centre for MOOCs & Learning (CML)** delivered a comprehensive session on **NPTEL Courses via SWAYAM Platform**. Highlights include:
+
+- **Types of Courses:** Advanced, Intermediate, and Beginner
+- **Course Durations:** 
+  - 4 Weeks
+  - 8 Weeks
+  - 12 Weeks
+- **Registration Process:** Explained how to register and navigate the SWAYAM portal.
+- **Benefits:**
+  - Exams facilitated by college, with transportation support.
+  - ₹1000 credited to students who pass the exam.
+  - Certificate from IITs upon successful completion.
+  - Recognition titles like **"NPTEL Believer"** and **"NPTEL Champion"** based on performance.
+  - Valuable addition to a student’s resume.
+
+He also introduced the **CML Society**, which focuses on technical skills, AICTE-funded projects, and encouraged students to join for hands-on learning opportunities. A registration form for the society was filled by interested students.
+
+---
+
+##  Closing Session – Arvind Dhingra  
+** Time:** ~3:50 PM – 4:00 PM
+
+The day concluded with an energetic and interactive session by **Mr. Arvind Dhingra**. Though brief, his engaging clapping activity brought a cheerful and enthusiastic end to the day's events.
+
+---
+
+## Summary 
+
+Day 6 of the induction program was packed with administrative tasks, campus orientation, and insightful sessions by inspiring guests. The students gained knowledge about college values, online learning opportunities, and technical societies, leaving them motivated and excited for the journey ahead.
+
+---
+
+
+
 
 
 
