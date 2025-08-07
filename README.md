@@ -451,6 +451,91 @@ Day 6 of the induction program was packed with administrative tasks, campus orie
 ---
 
 
+# Day 7 
+
+## Date: August 7, 2025
+
+---
+
+## Overview
+
+Day 7 of the Induction Program at Guru Nanak Dev Engineering College (GNDEC), Ludhiana, was an informative and engaging day, comprising a series of sessions conducted by esteemed faculty members and club incharges. The day covered topics ranging from student welfare, digital presence, academic regulations, and subject overviews, to personality development.
+
+---
+
+## Session-wise Breakdown
+
+### 1. **Session by Dr. Parminder Singh**  
+**Time:** 9:30 AM – 10:30 AM  
+**Designation:** Dean of Student Welfare  
+
+- Introduced the various **student societies and clubs** in the college.
+- Gave an overview of the **college library**, highlighting:
+  - The **AC reading hall** with a seating capacity of **300 students**.
+  - Availability of **online books**, both **national** and **international**.
+- Discussed the **various scholarships** available to students.
+- Strongly emphasized the importance of **focused and consistent study habits** throughout the 4-year degree program.
+
+---
+
+### 2. **Session by Mr. Amit Khapra**  
+**Time:** 10:30 AM – 11:30 AM  
+**Designation:** Incharge, Digital Marketing Club (DMC)  
+
+- Showcased the college’s digital footprint on platforms like **Instagram** and **YouTube**.
+- Shared the journey of GNDEC’s entry into digital platforms starting from **2019**, initiated under the guidance of the principal.
+- Presented creative video work by students, notably by **Navjot Singh**, a member of DMC.
+- Encouraged students to **join the Digital Marketing Club** to contribute creatively to the college’s media presence.
+- Displayed **drone footage** and **fest highlight videos** produced by the club.
+
+---
+
+### 3. **Session by Professor Randhir Singh**  
+**Time:** 11:30 AM – 12:30 PM  
+
+- Gave a detailed explanation of the **marking scheme** and the **examination system**:
+  - Minimum **75% attendance** is mandatory in each subject.
+  - **Detainment policy**: If attendance is below 75%, the student will be detained and must **pay INR 15,000** to re-attend the semester.
+  - **Mid-Semester Exams**:
+    - First MST in the **third week of September**.
+    - Second MST in **November**.
+- Demonstrated the use of portals:
+  - [guru.gndec.ac.in](http://guru.gndec.ac.in)
+  - [academics.gndec.ac.in](http://academics.gndec.ac.in)
+
+---
+
+### 4. **Lunch Break**  
+**Time:** 12:30 PM – 1:30 PM  
+
+---
+
+### 5. **Mathematics Lecture by Professor Rajbir Kaur**  
+**Time:** 1:30 PM – 2:30 PM  
+
+- Provided an overview of **Differential Equations** and **Derivatives**, revising concepts from Class 12.
+- Explained:
+  - **Types of Differential Equations** based on **order** and **degree**.
+  - **Geometrical interpretation** of slope.
+
+---
+
+### 6. **Communication Skills Lecture by Professor Manjot Kaur**  
+**Time:** 2:30 PM – 3:30 PM  
+
+- Reiterated the **marking scheme** briefly.
+- Took **student introductions in English**:
+  - Corrected pronunciation and grammar errors.
+  - Gave tips on **confident speaking**, such as making **eye contact** with the audience.
+  - Encouraged students to **avoid nervousness** and build communication skills from the beginning.
+
+---
+
+## Summary
+
+The seventh day of the Induction Program was highly productive, providing students with valuable insights into academic structure, student development opportunities, and digital inv
+
+
 
 
 
