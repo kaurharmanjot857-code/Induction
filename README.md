@@ -372,7 +372,7 @@ Day 5 of the induction program marked the beginning of our academic journey, as 
 
 Day 5 provided us with a meaningful start to our academic life in college. The sessions were not only educational but also deeply motivational. We left the classrooms with a sense of purpose, understanding that college is not just about passing exams—it's about building a skillset and mindset for life.
 
-# College Induction Program – Day 6 Report
+# Day 6 
 
 **Date:** 6th August 2025  
 **Venue:** TCC Seminar Hall, Campus Grounds, College Auditorium  
