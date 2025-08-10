@@ -1,5 +1,5 @@
 # Induction
-#  Day 1 – Induction Program Report
+#  Day 1 – 
 
 ** Date:** 31st July, 2025  
 
