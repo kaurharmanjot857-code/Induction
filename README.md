@@ -533,7 +533,90 @@ Day 7 of the Induction Program at Guru Nanak Dev Engineering College (GNDEC), Lu
 
 ## Summary
 
-The seventh day of the Induction Program was highly productive, providing students with valuable insights into academic structure, student development opportunities, and digital inv
+The seventh day of the Induction Program was highly productive, providing students with valuable insights into academic structure, student development opportunities, and digital information.
+
+# Day 8 -
+
+Welcome to the detailed log of **Day 8** of my college induction journey! Here's a comprehensive overview of everything that happened today — from academic lectures to engaging interactions with our seniors.
+
+---
+
+## 🧪 Chemistry Lecture with Prof. Mandeep Kaur (09:00 AM - 10:30 AM)
+
+The day began with a **Chemistry lecture** led by **Professor Mandeep Kaur**. She started the session with a warm round of **introductions**, where each student shared:
+
+- Their **previous school name**
+- **Class 12 chemistry marks**
+- **Strengths and weaknesses**
+- Personal **hobbies**
+
+### Topics Covered:
+After the introductions, we dove into some fundamental concepts of **Electrochemistry**:
+
+-  **Electrochemical Cells** vs **Electrolytic Cells**
+-  **Daniel Cell**: Explained using the classic **Zinc-Copper cell**, including its representation
+-  **Electrochemical Series**: Introduced us to the **oxidation** and **reduction potentials** of different metals
+-  Concepts of **Anode** and **Cathode**
+-  Role and function of the **Salt Bridge**
+
+> Overall, it was an informative and conceptually rich session laying a strong foundation for Electrochemistry.
+
+---
+
+##  Interaction with Seniors (10:30 AM - 11:00 AM)
+
+Right after the Chemistry lecture, some of our **seniors** visited the classroom. They created a fun and relaxed atmosphere by:
+
+- Singing songs 
+- Organizing **interactive games**   
+- Engaging us in laughter and lighthearted conversation   
+
+This helped us feel more connected and comfortable in the new college environment.
+
+---
+
+##  English Lecture with Prof. Nisha (11:00 AM Onwards)
+
+The next session was an **English lecture** conducted by **Professor Nisha**.
+
+### Activities & Highlights:
+
+1. **Syllabus Overview**:
+   - We began by writing down the **English syllabus**, which consists of **4 units**, each ending with an **activity** that we need to submit.
+
+2. **Interactive Quiz**:
+   - Prof. Nisha hosted a **multiple-choice quiz** where:
+     - She read each question aloud
+     - Provided **four options**
+     - The whole class participated actively
+
+3. **Vocabulary & Pronunciation**:
+   - Alongside the quiz, she explained the **meanings** and **correct pronunciations** of many words
+   - Helped us improve our **English comprehension and usage**
+
+4. **Jumbled Words Activity**:
+   - She challenged us to **guess words** from **jumbled letters**
+   - This activity turned out to be **fun**, **engaging**, and **educational**
+
+> The English session was lively, enriching, and far from boring. We learned several new words while enjoying every bit of the interaction.
+
+---
+
+##  Summary
+
+| Time         | Session                         | Highlights                                             |
+|--------------|----------------------------------|--------------------------------------------------------|
+| 09:00 - 10:30 | Chemistry with Prof. Mandeep    | Electrochemistry basics, Daniel cell, Salt bridge     |
+| 10:30 - 11:00 | Senior Interaction              | Singing, games, bonding                                |
+| 11:00 onwards | English with Prof. Nisha        | Syllabus intro, quiz, vocabulary, jumbled word games  |
+
+---
+
+>  **Reflection**: Today was a perfect blend of learning and fun. The chemistry session strengthened our basics, while the English lecture sharpened our language skills. The friendly interaction with seniors made us feel at home.
+
+---
+
+
 
 
 
