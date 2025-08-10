@@ -1,5 +1,5 @@
 # Induction
-#  Day 1 – 
+#  Day - 1 
 
 ** Date:** 31st July, 2025  
 
@@ -12,7 +12,7 @@ She gave an overview of the week-long induction program and introduced the speak
 
 ---
 
-## 🧠 Insightful Session by Harsimran Singh
+##  Insightful Session by Harsimran Singh
 
 The first speaker, **Harsimran Singh**, shared valuable insights about:
 
@@ -24,7 +24,7 @@ This session helped students understand the legacy and opportunities the college
 
 ---
 
-## 🎓 Talk by Sangam Arora – CSE Topper (Batch 2021–2025)
+##  Talk by Sangam Arora – CSE Topper (Batch 2021–2025)
 
 **Sangam Arora**, topper of the **CSE batch (2021–2025)**, encouraged students to:
 
@@ -114,7 +114,7 @@ The principal, **Sehijpal Singh**, shared wisdom and motivation for:
 
 ---
 
-## 💸 Financial Advice by Rakesh Kumar
+##  Financial Advice by Rakesh Kumar
 
 The day concluded with **Rakesh Kumar**, **Finance Adviser**, who explained:
 
@@ -131,7 +131,7 @@ This day set the tone for a successful and enriching college experience.
 
 ---
 
-# Day 2
+# Day - 2 
 ## 9:30 am - 10:30 am
 At starting , we had an english proficiency test which was quite interesting and brain triggering .It included grammar ,reading and writing based questions . 
 
@@ -169,7 +169,7 @@ We were given a tutorial about the github (signing up )and how to create a repos
 ## Reflection
 Overall , in a nutshell , the starting of the day was a bit thinking based with the tests but they are also equally important to know that where we actually stand . The lecture on satya scholarship made me realise the financial need and its importance in the field of education.Same goes with the lecture on the importance of food which made me learn a lot about the vitality of food towards the mental health especially .After learning the new platform github and the repositories , I really felt that I am learning something new and more towards our subject (coding) .The day was a rich blend of practical learning, future planning, and skill-building. It left me feeling more prepared — not just academically, but also for the broader challenges and opportunities ahead.
 
-# 🎓 Day 3 – 
+#  Day - 3 
 
 (2nd August 2025)
 
@@ -188,7 +188,7 @@ It was a perfect kickstart to the day, laying a strong foundation for scientific
 ---
 
 ###  Session 2: Nurturing the Inner Self  
-**🕧 Time:** 11:30 AM – 1:30 PM  
+** Time:** 11:30 AM – 1:30 PM  
 ** Speaker:** Dr. Priya Darshni  
 ** Topic:** *Universal Human Values*
 
@@ -311,7 +311,7 @@ Day 4 of the induction program was a well-rounded experience that blended:
 It helped us feel more confident and excited about our journey ahead in college.
 
 ---
-# Day 5
+# Day - 5
 
 Date - 5th August 2025
 ##  Introduction
@@ -372,7 +372,7 @@ Day 5 of the induction program marked the beginning of our academic journey, as 
 
 Day 5 provided us with a meaningful start to our academic life in college. The sessions were not only educational but also deeply motivational. We left the classrooms with a sense of purpose, understanding that college is not just about passing exams—it's about building a skillset and mindset for life.
 
-# Day 6 
+# Day - 6 
 
 **Date:** 6th August 2025  
 **Venue:** TCC Seminar Hall, Campus Grounds, College Auditorium  
@@ -451,7 +451,7 @@ Day 6 of the induction program was packed with administrative tasks, campus orie
 ---
 
 
-# Day 7 
+# Day - 7 
 
 ## Date: August 7, 2025
 
@@ -535,7 +535,7 @@ Day 7 of the Induction Program at Guru Nanak Dev Engineering College (GNDEC), Lu
 
 The seventh day of the Induction Program was highly productive, providing students with valuable insights into academic structure, student development opportunities, and digital information.
 
-# Day 8 -
+# Day - 8 
 
 Welcome to the detailed log of **Day 8** of my college induction journey! Here's a comprehensive overview of everything that happened today — from academic lectures to engaging interactions with our seniors.
 
