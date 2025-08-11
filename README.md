@@ -615,6 +615,146 @@ The next session was an **English lecture** conducted by **Professor Nisha**.
 >  **Reflection**: Today was a perfect blend of learning and fun. The chemistry session strengthened our basics, while the English lecture sharpened our language skills. The friendly interaction with seniors made us feel at home.
 
 ---
+# 📘 Day 9 - College Induction Program
+
+**Date:** August 11, 2025  
+**Venue:** College Campus  
+**Day:** 9th Day of Induction
+
+---
+
+## 🧠 Session Summaries
+
+### 🗣️ **Communication Skills**  
+**Instructor:** Prof. Nisha (in place of Prof. Puneet Narang)  
+**Duration:** 10:30 AM – 11:30 AM
+
+The session focused on **types of communication** and **communication barriers**.
+
+#### Key Topics Covered:
+
+- **Types of Communication:**
+  - **Verbal Communication**
+  - **Non-verbal Communication** (also referred to as **Grapevine Communication**)
+
+#### 📌 Non-Verbal Communication Keywords:
+| Term       | Description                          |
+|------------|--------------------------------------|
+| **Kinesics**   | Study of body posture and gestures |
+| **Proxemics**  | Study of personal space in communication |
+| **Paralanguage** | Tone, pitch, and speaking style    |
+| **Chronemics** | Use of time in communication        |
+
+#### 🔗 Formal Communication Channels:
+- **Vertical**  
+  - Upward  
+  - Downward
+- **Diagonal**  
+- **Horizontal** (communication between individuals of the same rank)
+
+#### 🚧 Communication Barriers Discussed:
+- Language barrier  
+- Cultural barrier  
+- Psychological barrier  
+- Physical barrier  
+- Perception barrier  
+- Environmental/surrounding barrier
+
+---
+
+### ⚡ **Basics of Electrical and Electronics Engineering (BEEE)**  
+**Instructor:** Prof. Balwinder Singh  
+**Duration:** 11:30 AM – 12:30 PM
+
+An introductory lecture on the foundational concepts of electrical and electronics engineering.
+
+#### Key Concepts Introduced:
+
+- **Electricity Generation and Distribution:**
+  - From power stations → distribution terminals → end-user (homes)
+  
+- **Types of Circuit Elements:**
+  - **Linear Elements**
+  - **Non-linear Elements**
+
+- **Current Types:**
+  - **DC (Direct Current)**
+
+- **Ohm's Law:**
+  - Relationship between Voltage (V), Current (I), and Resistance (R)
+
+- **Active and Passive Elements:**
+  - Active: Can inject power into the circuit (e.g., batteries, generators)
+  - Passive: Cannot generate power (e.g., resistors, capacitors)
+
+#### 🔌 Sources:
+- **Independent Sources**
+- **Dependent Sources:**
+  - Voltage-Controlled Voltage Source (VCVS)
+  - Voltage-Controlled Current Source (VCCS)
+  - Current-Controlled Voltage Source (CCVS)
+  - Current-Controlled Current Source (CCCS)
+
+- Dependent sources were also explained using circuit diagrams and appropriate symbols.
+
+---
+
+### 🧪 **English Lab Orientation and Interactive Session**  
+**Instructors:** Prof. Nisha (initially), Prof. Manjot (in place of Prof. Puneet Narang)  
+**Duration:** 01:30 PM – 03:30 PM
+
+Since Prof. Puneet Narang was on leave, the session was managed first by Prof. Nisha (for syllabus overview) and later by Prof. Manjot.
+
+#### Key Highlights:
+
+- **Syllabus Overview:**
+  - Brief overview of the English Lab curriculum by Prof. Nisha
+
+- **Assessment Scheme:**
+  - Total Marks: **150**
+  - Explained by Prof. Manjot
+
+- **Student Interaction:**
+  - Hostellers and day scholars were asked about their hometowns and college experiences so far.
+
+- **Team Game Activity:**
+  - Students were divided into **Team A** and **Team B**
+  - Vocabulary-based quiz: Students had to describe meanings of English vocabulary words
+
+- The activity encouraged participation, engagement, and collaboration among the students.
+
+---
+
+## ✅ Summary of Learnings
+
+| Domain | Topics Learned |
+|--------|----------------|
+| **Communication Skills** | Verbal & Non-verbal communication, formal channels, communication barriers |
+| **BEEE** | Electric current, Ohm’s law, circuit elements, source types |
+| **English Lab** | Syllabus, marking scheme, vocabulary enrichment through games |
+
+---
+
+## 📌 Notes
+
+- Active participation was encouraged in all sessions.  
+- The replacement of instructors was handled smoothly.  
+- The mix of theory and interactive activities helped keep the sessions engaging.
+
+---
+
+## 📅 Looking Ahead
+
+Stay prepared for upcoming sessions with:
+- Basic understanding of communication models  
+- Foundational knowledge of electrical circuits  
+- Vocabulary enrichment for English Lab
+
+---
+
+> _“The beautiful thing about learning is that nobody can take it away from you.” – B.B. King_
+
+
 
 
 
