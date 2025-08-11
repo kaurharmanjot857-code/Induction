@@ -615,7 +615,7 @@ The next session was an **English lecture** conducted by **Professor Nisha**.
 >  **Reflection**: Today was a perfect blend of learning and fun. The chemistry session strengthened our basics, while the English lecture sharpened our language skills. The friendly interaction with seniors made us feel at home.
 
 ---
-# 📘 Day 9 - College Induction Program
+#  Day 9 
 
 **Date:** August 11, 2025  
 **Venue:** College Campus  
@@ -623,9 +623,9 @@ The next session was an **English lecture** conducted by **Professor Nisha**.
 
 ---
 
-## 🧠 Session Summaries
+##  Session Summaries
 
-### 🗣️ **Communication Skills**  
+###  **Communication Skills**  
 **Instructor:** Prof. Nisha (in place of Prof. Puneet Narang)  
 **Duration:** 10:30 AM – 11:30 AM
 
@@ -637,7 +637,7 @@ The session focused on **types of communication** and **communication barriers**
   - **Verbal Communication**
   - **Non-verbal Communication** (also referred to as **Grapevine Communication**)
 
-#### 📌 Non-Verbal Communication Keywords:
+####  Non-Verbal Communication Keywords:
 | Term       | Description                          |
 |------------|--------------------------------------|
 | **Kinesics**   | Study of body posture and gestures |
@@ -652,7 +652,7 @@ The session focused on **types of communication** and **communication barriers**
 - **Diagonal**  
 - **Horizontal** (communication between individuals of the same rank)
 
-#### 🚧 Communication Barriers Discussed:
+####  Communication Barriers Discussed:
 - Language barrier  
 - Cultural barrier  
 - Psychological barrier  
@@ -662,7 +662,7 @@ The session focused on **types of communication** and **communication barriers**
 
 ---
 
-### ⚡ **Basics of Electrical and Electronics Engineering (BEEE)**  
+###  **Basics of Electrical and Electronics Engineering (BEEE)**  
 **Instructor:** Prof. Balwinder Singh  
 **Duration:** 11:30 AM – 12:30 PM
 
@@ -687,7 +687,7 @@ An introductory lecture on the foundational concepts of electrical and electroni
   - Active: Can inject power into the circuit (e.g., batteries, generators)
   - Passive: Cannot generate power (e.g., resistors, capacitors)
 
-#### 🔌 Sources:
+#### Sources:
 - **Independent Sources**
 - **Dependent Sources:**
   - Voltage-Controlled Voltage Source (VCVS)
@@ -699,7 +699,7 @@ An introductory lecture on the foundational concepts of electrical and electroni
 
 ---
 
-### 🧪 **English Lab Orientation and Interactive Session**  
+### **English Lab Orientation and Interactive Session**  
 **Instructors:** Prof. Nisha (initially), Prof. Manjot (in place of Prof. Puneet Narang)  
 **Duration:** 01:30 PM – 03:30 PM
 
@@ -725,7 +725,7 @@ Since Prof. Puneet Narang was on leave, the session was managed first by Prof. N
 
 ---
 
-## ✅ Summary of Learnings
+## Summary of Learnings
 
 | Domain | Topics Learned |
 |--------|----------------|
@@ -735,7 +735,7 @@ Since Prof. Puneet Narang was on leave, the session was managed first by Prof. N
 
 ---
 
-## 📌 Notes
+##  Notes
 
 - Active participation was encouraged in all sessions.  
 - The replacement of instructors was handled smoothly.  
@@ -743,7 +743,7 @@ Since Prof. Puneet Narang was on leave, the session was managed first by Prof. N
 
 ---
 
-## 📅 Looking Ahead
+##  Looking Ahead
 
 Stay prepared for upcoming sessions with:
 - Basic understanding of communication models  
