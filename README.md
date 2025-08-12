@@ -754,6 +754,162 @@ Stay prepared for upcoming sessions with:
 
 > _“The beautiful thing about learning is that nobody can take it away from you.” – B.B. King_
 
+# Day - 10 
+
+## Date: 12th August 2025
+
+---
+
+### Overview
+
+Day 10 of the college induction program was a mix of academic learning, hands-on experiences, and interactive sessions. It began with a creative twist, followed by foundational lessons in engineering and communication skills, and ended with an engaging session organized by the E-Cell. Here’s a detailed summary of everything that happened today:
+
+---
+
+##  Morning Session
+
+### 1. **Mathematics Lecture (8:30 AM - 9:30 AM)**
+
+Although this session was titled under Mathematics, it was conducted by a senior student who introduced us to **Canva**, a graphic design tool. Instead of math, we explored creativity by designing a **flyer** on the topic **"Athletic Meet"**.  
+
+- The session included:
+  - A basic tutorial on how to use Canva.
+  - Step-by-step flyer creation guided by the senior.
+  - Each student designed their own flyer using the tools demonstrated.
+  
+This session was an excellent opportunity to integrate design and creativity into our daily learning.
+
+---
+
+### 2. **Basics of Electrical and Electronics Engineering (BEEE) - Lecture 1 (9:30 AM - 10:30 AM)**
+
+**Instructor:** *Mr. Balwinder Singh*  
+This session focused on introducing fundamental electrical laws, specifically:
+
+- **Kirchhoff’s Laws:**
+  - **Kirchhoff's Current Law (KCL):** The total current entering a junction is equal to the total current leaving it.
+  - **Kirchhoff's Voltage Law (KVL):** The sum of all voltages around a closed loop equals zero.
+
+- **Sign Conventions:**
+  - Explained the rules for identifying EMF rise and fall.
+  - Discussed voltage across a resistor and how to apply the sign convention.
+
+- We also practiced one **numerical problem** based on these laws, helping us understand practical applications.
+
+---
+
+### 3. **English Lecture (10:30 AM - 11:30 AM)**
+
+**Instructor:** *Ms. Puneet Narang*  
+The English session focused not on grammar or literature, but on **communication skills**, emphasizing that English in college is a **practical skill-based subject**.
+
+Key topics discussed:
+
+- **Nature of Communication:**
+  - English is not just a subject but a tool for personality development.
+  - It plays a vital role in expressing thoughts, ideas, and building confidence.
+
+- **Role of Language:**
+  - Used for thinking, speaking, writing, and expressing.
+  - Language is a core part of effective communication.
+
+- **Important Concepts:**
+  - **Kinesics:** Body language.
+  - **Paralanguage:** Tone, pitch, and volume in speech.
+
+- **Factors Affecting Communication:**
+  - Psychological well-being
+  - Self-confidence
+  - Clarity of thought
+
+This session was inspiring and made us understand the real-life importance of communication beyond academic theory.
+
+---
+
+### 4. **Chemistry Lecture (11:30 AM - 12:30 PM)**
+
+**Instructor:** *Ms. Mandeep*  
+We began with the **Water Chemistry** chapter.
+
+Topics covered:
+
+- **Sources of Water:**
+  - Rainwater is considered the purest form.
+  - Other sources include groundwater, rivers, and lakes.
+
+- **Hardness of Water:**
+  - Hard water contains salts of calcium (Ca²⁺) and magnesium (Mg²⁺).
+  - It does not form lather with soap due to chemical reactions forming precipitates.
+
+- **Types of Hardness:**
+  - **Temporary Hardness:** Caused by bicarbonates (removed by boiling).
+  - **Permanent Hardness:** Caused by sulfates and chlorides (not removed by boiling).
+
+- **Key Reactions:**
+  - Explained the reason behind the absence of lather with soap using chemical reactions.
+
+- **Relative Strength of Salts:**
+  - Calcium sulfate is the strongest, and calcium carbonate is the weakest.
+
+- **Units of Water Hardness:**
+  - **ppm** (parts per million)
+  - **mg/L** (milligrams per liter)
+  - Both units are equivalent in water hardness measurement.
+
+---
+
+##  Lunch Break (12:30 PM - 1:30 PM)
+
+Students had a break to relax, recharge, and prepare for the second half of the day.
+
+---
+
+## Afternoon Session
+
+### 5. **BEEE Lab Session (1:30 PM - 2:30 PM)**
+
+In the lab session of BEEE:
+
+- We continued exploring **Kirchhoff’s Laws**.
+- Solved a practical **loop-based numerical** involving voltage sources and resistors.
+- Applied sign conventions and analytical techniques to determine current flow.
+
+This hands-on problem-solving session helped reinforce the concepts learned earlier in the theory class.
+
+---
+
+### 6. **E-Cell Charcha 12 (2:30 PM onwards)**
+
+Instead of attending the last lecture, I participated in an interactive session called **Charcha 12** organized by the **E-Cell GNDEC** in **Room F101**.
+
+Highlights of the session:
+
+- Discussion by senior students on:
+  - **Low bandwidth product development**
+  - Importance of creating **"Made in India"** products.
+  - Challenges in India’s tech industry due to lack of infrastructure.
+  - Why Indian consumers often buy foreign products (e.g., affordability, better design).
+
+- **Activity:**
+  - We were asked to **design a logo** on the theme **"Made in India"** using **Canva**.
+  - Submission was done through a provided link, which also marked our attendance.
+
+This session was both eye-opening and creatively stimulating, pushing us to think about innovation, entrepreneurship, and national pride.
+
+---
+
+##  Conclusion
+
+Day 10 of the induction program was incredibly dynamic, blending technical learning, creativity, and personal development. It provided:
+
+- Deeper understanding of core engineering principles.
+- Exposure to real-world communication and entrepreneurial topics.
+- Opportunities to showcase creativity through digital tools like Canva.
+
+Each session added value, making it a day of holistic learning and exploration.
+
+---
+
 
 
 
