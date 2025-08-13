@@ -910,6 +910,97 @@ Each session added value, making it a day of holistic learning and exploration.
 
 ---
 
+#  Day - 11 
+
+## Date: August 13, 2025  
+### Location: CSE Department, Software Lab 2
+
+---
+
+## **Session 1: Programming for Problem Solving**  
+**Time:** 8:30 AM – 10:30 AM  
+**Instructor:** Jagdeep Kaur  
+**Venue:** Software Lab 2, CSE Department
+
+**Overview:**
+The day began with a lecture on the fundamentals of computing. Jagdeep Ma'am introduced the subject "Programming for Problem Solving" by outlining the marks distribution for mid-semester examinations, theory, and practical components.
+
+**Topics Covered:**
+- Overview of Computer Architecture:
+  - RAM and ROM
+  - Memory Unit
+  - Arithmetic and Logical Unit (ALU)
+  - Output Unit
+- Understanding Cache Memory and File Systems
+- Introduction to Data, Input Devices, and Output Devices
+
+This session provided foundational knowledge essential for understanding how a computer processes and stores information.
+
+---
+
+##  **Session 2: Introduction to CSE Pathways (By Seniors)**  
+**Time:** 10:30 AM – 11:30 AM  
+**Facilitated by:** Final Year Seniors (IT Department)
+
+**Highlights:**
+This session was an interactive introduction to various specializations within Computer Science and Engineering (CSE), delivered by experienced seniors. Each senior shared their journey, motivations, and current skill sets.
+
+**Key Takeaways:**
+- **Different Pathways in CSE:**
+  - Web Development
+  - App Development
+  - Cybersecurity
+  - Data Science
+  - Artificial Intelligence & Machine Learning
+
+- **Devansh (Final Year IT):**
+  - Shared his personal learning journey
+  - Started with app development in 12th grade due to curiosity about game building
+  - Discussed blockchain basics and bitcoin mining
+
+- **Mayank (Final Year IT):**
+  - Talked about the importance of Linux and using IDEs in development
+
+- **General Advice from Seniors:**
+  - Participate in hackathons, even those conducted by other colleges
+  - Explore various fields within the first two years before specializing
+  - Start with learning one programming language thoroughly
+
+This session offered motivation and a practical view of real-world tech learning and career paths.
+
+---
+
+## 🍽️ **Break**  
+**Time:** 11:30 AM – 12:30 PM
+
+---
+
+##  **Session 3: Basic Electrical and Electronics Engineering (BEEE) Lab**  
+**Time:** 12:30 PM – 2:30 PM  
+**Instructor:** Balwinder Sir
+
+**Focus of the Lab:**
+Hands-on introduction to the usage and application of a **Multimeter**.
+
+**Topics Covered:**
+- Measuring **Resistance**, **Voltage**, and **Current**
+- Understanding the **beeping sound** for circuit continuity
+- Checking continuity in different types of electrical circuits
+- Introduction to documentation:
+  - Writing observations in the **practical file**
+  - Instructions on purchasing the lab file and formatting reports
+
+This session was highly practical, enhancing understanding of basic electrical measurements and reinforcing lab discipline.
+
+---
+
+##  **Conclusion:**
+Day 11 of the induction program was a blend of theoretical learning, inspirational guidance, and practical lab work. It provided a comprehensive outlook on both the academic and career aspects of CSE and EEE. The inputs from faculty and seniors alike were valuable in shaping the direction for the upcoming college journey.
+
+---
+
+
+
 
 
 
