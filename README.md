@@ -999,6 +999,127 @@ Day 11 of the induction program was a blend of theoretical learning, inspiration
 
 ---
 
+# Day - 12 
+
+** Date:** 14th August 2025
+
+---
+
+## 8:30 AM - 9:30 AM | BEEE (Basics of Electrical and Electronics Engineering)
+
+**Instructor:** Substitute (on behalf of Balwinder Sir)
+
+The lecture covered foundational topics in Electrical and Electronics Engineering:
+
+- **Differences between Components:**
+  - **Resistor:** Opposes current flow.
+  - **Inductor:** Stores energy in a magnetic field.
+  - **Capacitor:** Stores energy in an electric field.
+
+- **Smart Meters:**
+  - Discussed the role and benefits of smart meters in India for monitoring electricity usage.
+
+- **Power and Power Factor:**
+  - Explained the concepts of power and power factor.
+  - Covered why the power factor is zero for inductors and capacitors, and unity for resistors.
+
+- **Use of Capacitors in Fans:**
+  - Capacitors provide the initial torque needed to start a fan.
+
+- **Household Wiring:**
+  - Explained why domestic connections are **parallel** rather than series for independent appliance operation.
+
+- **Formulas and Definitions:**
+  - Shared key formulas and gave the definition of **inductance**.
+
+---
+
+## 9:30 AM - 10:30 AM | Chemistry - Water Chemistry
+
+**Instructor:** Mandeep Kaur
+
+Topics covered:
+
+- **Hardness of Water:**
+  - Measured in **CaCO₃ equivalents**.
+  - Differentiation between **temporary** and **permanent** hardness.
+
+- **Boiler Feed Water:**
+  - Importance of using clean water in boilers to prevent:
+    - **Sludge and scale formation**
+    - **Caustic embrittlement**
+  - Discussed the concept of **boiler feed water** and reuse of condensed steam.
+
+- **Numerical Practice:**
+  - Solved problems calculating hardness using calcium and magnesium salts.
+
+---
+
+## 10:30 AM - 12:30 PM | Computer Science (Software Lab 2)
+
+**Instructor:** Jagdeep Kaur
+
+Topics discussed in a PPT presentation:
+
+- **RAM and ROM:**
+  - RAM types: DRAM, SRAM
+  - ROM types: PROM, EPROM, EEPROM
+
+- **Storage Devices:**
+  - Hard Disk Drives (HDDs) and Pendrives
+  - Structure and working of HDDs
+
+- **CPU and Peripheral Devices:**
+  - CPU roles and usage
+  - Input/output devices and how they interact with the CPU
+
+- **Assignment:**
+  - Homework given to be submitted by **20th August 2025**
+
+---
+
+## 12:30 PM - 1:30 PM | Lunch Break
+
+---
+
+## 1:30 PM - 2:30 PM | Mathematics
+
+**Instructor:** Harsimran Singh (M.Tech 1st Year)
+
+Activities included:
+
+- **Proficiency Test Solutions:**
+  - Provided solutions for English and Mathematics tests.
+  - Explained methods and logic behind each answer.
+
+---
+
+## 2:30 PM - 3:30 PM | Mentoring and Personality Development
+
+**Mentors:** Jasmine Kaur (C1) and Goldendeep Kaur (C2)
+
+Covered:
+
+- **Mentorship Support:**
+  - Students were encouraged to approach mentors with academic or personal issues.
+
+- **First Semester Advice:**
+  - Emphasis on studying consistently to avoid **supplementary exams**.
+
+---
+
+## Conclusion
+
+Day 12 of the induction program was a comprehensive blend of theory and practical insights across multiple disciplines. It included:
+
+- A technical overview of electrical components
+- Chemistry applications in real-world systems like boilers
+- Fundamental understanding of computer hardware
+- Mathematics test preparation
+- Personal and academic guidance from assigned mentors
+
+The day was both informative and motivational, contributing to the smooth transition into college life.
+
 
 
 
